@@ -2,7 +2,7 @@
 
 NOTE: Work in progress!
 
-Podpůrné scripty pro Drupal 8 dev/stage/prod workflow na SnackHost: http://www.jdoqocy.com/2c111js0ys-FOJMOHHIFHINKNKMO (affiliate, díky)
+Podpůrné scripty pro Drupal 8 dev/stage/prod workflow na SnackHost.cz
 
 ## Background
 * Mám rád best practice, ale některé projekty prostě nemají budget pro high end hosting.
